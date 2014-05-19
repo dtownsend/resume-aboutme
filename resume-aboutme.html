@@ -1,0 +1,33 @@
+<link rel="import" href="../bower_components/polymer/polymer.html">
+
+<polymer-element name="resume-aboutme"  attributes= "nm title cy st ct nm em">
+  <template>
+    
+    <style>
+    
+    </style>
+      
+        <h1><span itemprop="name">{{nm}}</span></h1>
+        <h3><span itemprop="jobTitle">{{title}}</span></h3>
+        <small itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                <span itemprop="addressLocality">{{cy}}</span>, 
+                <span itemprop="addressRegion">{{st}}</span>, 
+                <span itemprop="addressCountry">{{ct}}</span>
+        </small>
+        <small itemprop="telephone">{{nm}}</small>
+        <small><a href="mailto:{{em}}" itemprop="email">{{em}}</a></small>
+     
+  </template>
+
+  <script> 
+    Polymer('resume-aboutme',{
+        nm:"",
+        title:"",
+        cy:"",
+        st:"",
+        ct:"",
+        nm:"",
+        em:""
+    }); 
+  </script>
+</polymer-element>

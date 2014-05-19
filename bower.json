@@ -1,0 +1,7 @@
+{
+  "name": "resume-aboutme",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+  }
+}
