@@ -1,9 +1,8 @@
+resume-aboutme
+================
 
 
-#<resume-aboutme>#
-
-
-<resume-aboutme> is a part of a suite of web components that when combined create a full resume into a single web component tag.
+`<resume-aboutme>` is a part of a suite of web components that when combined create a full resume into a single web component tag.
 
 ## Getting Started
 
