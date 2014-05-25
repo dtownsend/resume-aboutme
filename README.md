@@ -4,6 +4,8 @@ resume-aboutme
 
 `<resume-aboutme>` is a part of a suite of web components that when combined create a full resume into a single web component tag.
 
+`<resume-aboutme>` is a web component tag where a user puts there basic info and contact infromation for a resume.
+
 ## Getting Started
 
 
