@@ -2,6 +2,7 @@
   "name": "resume-aboutme",
   "private": true,
   "dependencies": {
-    "polymer": "Polymer/polymer#master"
+    "polymer": "Polymer/polymer",
+    "platform": "Polymer/platform"
   }
 }
