@@ -6,11 +6,20 @@ resume-aboutme
 
 `<resume-aboutme>` is a web component tag where a user puts there basic info and contact infromation for a resume.
 
+## Demo
+
+https://dtownsend.github.io/resumeaboutme.html
+
+
 ## Getting Started
 
 
 1. Import Polymer
 
+  ```html
+  <script src="bower_components/platform/platform.js"></script>
+  ```
+  OR
   ```html
   <script src="bower_components/platform/platform.js"></script>
   ```
